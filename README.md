@@ -1,5 +1,10 @@
 ## Descrição: ##
 
+**Veja o projeto ao vivo:**
+
+**[Encurtador de Links][https://ninja1375.github.io/Encurtador-de-Link/]**
+
+
 O "**Encurtador de Links**" é uma aplicação web simples, feita em HTML, CSS e JavaScript, que permite ao usuário encurtar URLs longas de forma rápida e eficiente. Usando uma API pública do is.gd, o aplicativo faz chamadas diretamente do navegador, sem a necessidade de backend ou autenticação, oferecendo uma solução prática e acessível. 
 
 O projeto conta com um design responsivo e Tema Dark, garantindo uma boa experiência de usuário tanto em desktops quanto em dispositivos móveis.
