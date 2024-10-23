@@ -16,7 +16,7 @@ Caso o campo esteja vazio ou uma URL inválida seja inserida, a aplicação avis
 Ao clicar no botão "Encurtar", o aplicativo faz uma solicitação à API do is.gd, que processa e retorna um link encurtado.
 O link gerado aparece logo abaixo do botão e pode ser clicado para abrir diretamente uma URL encurtada.
 
-**Feedback de Erros;**
+**Feedback de Erros:**
 
 Se houver algum erro no processo de encurtamento (como uma URL inválida ou problema com a API), uma mensagem de erro será exibida abaixo do botão.
 Isso garante que o usuário saiba o que aconteceu e possa tentar novamente.
@@ -43,7 +43,7 @@ O link encurtado retornado pela API é exibido como um link clicável, permitind
 ## Como o Projeto Funciona: ##
 
 O usuário insere uma URL no campo de texto.
-Ao clicar no botão, o JavaScript faz uma chamada fetch para a API do is.gd, enviando uma URL que o usuário quer encurtar.
+Ao clicar no botão, o JavaScript faz uma chamada ```fetch``` para a API do is.gd, enviando uma URL que o usuário quer encurtar.
 
 A API processa uma solicitação e retorna um link encurtado no formato JSON.
 Esse link é exibido na página, com um texto informando que o processo foi bem-sucedido.
