@@ -1,6 +1,8 @@
 ## Descrição: ##
 
-O "Encurtador de Links" é uma aplicação web simples, feita em HTML, CSS e JavaScript, que permite ao usuário encurtar URLs longas de forma rápida e eficiente. Usando uma API pública do is.gd, o aplicativo faz chamadas diretamente do navegador, sem a necessidade de backend ou autenticação, oferecendo uma solução prática e acessível. O projeto conta com um design responsivo e Tema Dark, garantindo uma boa experiência de usuário tanto em desktops quanto em dispositivos móveis.
+O "**Encurtador de Links**" é uma aplicação web simples, feita em HTML, CSS e JavaScript, que permite ao usuário encurtar URLs longas de forma rápida e eficiente. Usando uma API pública do is.gd, o aplicativo faz chamadas diretamente do navegador, sem a necessidade de backend ou autenticação, oferecendo uma solução prática e acessível. 
+
+O projeto conta com um design responsivo e Tema Dark, garantindo uma boa experiência de usuário tanto em desktops quanto em dispositivos móveis.
 
 ## Funcionalidades: ##
 
@@ -49,7 +51,10 @@ Caso haja algum problema, o usuário será informado com uma mensagem de erro.
 
 ## Possíveis Melhores Melhores Futuras: ##
 
-Copiar link automaticamente : adicione um botão que copie o link encurtado para a área de transferência do usuário.
-Histórico de links encurtados : permite que o usuário veja uma lista dos últimos links encurtados.
-Estatísticas de cliques : integrar o recurso de monitoramento de cliques no link encurtado.
+**Copiar link automaticamente:** adicione um botão que copie o link encurtado para a área de transferência do usuário.
+
+**Histórico de links encurtados:** permite que o usuário veja uma lista dos últimos links encurtados.
+
+**Estatísticas de cliques:** integrar o recurso de monitoramento de cliques no link encurtado.
+
 Esse projeto é ideal para quem busca uma ferramenta rápida e simples para encurtar URLs com uma interface intuitiva, moderna e responsiva.
