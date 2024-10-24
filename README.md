@@ -54,7 +54,7 @@ A API processa uma solicitação e retorna um link encurtado no formato JSON.
 Esse link é exibido na página, com um texto informando que o processo foi bem-sucedido.
 Caso haja algum problema, o usuário será informado com uma mensagem de erro.
 
-## Possíveis Melhores Melhores Futuras: ##
+## Melhorias Futuras: ##
 
 **Copiar link automaticamente:** adicione um botão que copie o link encurtado para a área de transferência do usuário.
 
